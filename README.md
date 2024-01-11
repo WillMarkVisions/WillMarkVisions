@@ -1,14 +1,5 @@
-### Hi there 👋
+###🔭 Hello GitHub community! 
 
-🔭 I’m currently working on app for my college course which will hopefully be amazing!
-- 🌱 I’m currently learning from Ucertify and Saint Leo University.
-- ⚡ Fun fact: I am retired Air Force learning something new and having fun! 
-<!--
-**WillMarkVisions/WillMarkVisions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on app for my college course which will hopefully be cool!
-- 🌱 I’m currently learning from Ucertify and Saint Leo University.
-- ⚡ Fun fact: I am retired Air Force learning something new and having fun!!
+👋 I'm Markas, a 20-year military veteran embarking on an exciting transition into the world of Information Technology. 
+Armed with a Bachelor's degree in Computer Information Systems, I bring a unique blend of discipline, leadership, and technical proficiency to the IT landscape.
 -->
