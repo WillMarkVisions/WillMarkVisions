@@ -7,4 +7,4 @@ Armed with a Bachelor's degree in Computer Information Systems, I bring a unique
 I'm here to collaborate, contribute, and learn from the vibrant GitHub community. 
 As I embark on this exciting transition, I'm eager to connect with fellow developers, share insights, and actively participate in projects that align with my skill set and aspirations
 
-Feel free to reach out! 🚀
+Follow my vision....maybe it will help to create yours! 🚀
